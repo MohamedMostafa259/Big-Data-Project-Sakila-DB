@@ -39,6 +39,8 @@ This project aims to apply the concepts of data warehousing and OLAP analysis on
   - KPI cards for Total Revenue and Units Rented
   - Film Category Slicer for dynamic filtering
 
+![dashboard](https://github.com/MohamedMostafa259/Big-Data-Project-Salika-DB/blob/main/Dashboard.png)
+
 > See `dashboard.pbix` and `Reports/Power BI Report.pdf` file for full visuals.
 
 ---
